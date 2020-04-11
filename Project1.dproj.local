@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/25 21:26:48.000.670,=C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2020/03/25 21:29:00.000.730,C:\Users\kikatokiro\Desktop\Nouveau dossier\Unit1.pas=C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2020/03/25 21:29:00.000.730,C:\Users\kikatokiro\Desktop\Nouveau dossier\Unit1.dfm=C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2020/03/25 21:29:01.000.991,C:\Users\kikatokiro\Desktop\Nouveau dossier\Project1.dproj=C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2020/03/25 21:29:08.000.125,=C:\Users\kikatokiro\Desktop\Nouveau dossier\Unit2.pas</Transaction>
+    <Transaction>2020/03/25 21:29:25.000.226,C:\Users\kikatokiro\Desktop\Nouveau dossier\DataModule.dfm=C:\Users\kikatokiro\Desktop\Nouveau dossier\Unit2.dfm</Transaction>
+    <Transaction>2020/03/25 21:29:25.000.226,C:\Users\kikatokiro\Desktop\Nouveau dossier\DataModule.pas=C:\Users\kikatokiro\Desktop\Nouveau dossier\Unit2.pas</Transaction>
+    <Transaction>2020/03/25 21:30:58.000.029,=C:\Users\kikatokiro\Desktop\Nouveau dossier\Unit2.pas</Transaction>
+    <Transaction>2020/03/25 21:33:52.000.932,=C:\Users\kikatokiro\Desktop\Nouveau dossier\Unit3.pas</Transaction>
+    <Transaction>2020/04/11 20:45:02.000.827,=C:\Users\kikatokiro\Desktop\Login\Unit4.pas</Transaction>
+    <Transaction>2020/04/11 20:47:21.000.811,C:\Users\kikatokiro\Desktop\Login\Unit4.dfm=C:\Users\kikatokiro\Desktop\Login\splach.dfm</Transaction>
+    <Transaction>2020/04/11 20:47:21.000.811,C:\Users\kikatokiro\Desktop\Login\Unit4.pas=C:\Users\kikatokiro\Desktop\Login\splach.pas</Transaction>
+  </Transactions>
+</BorlandProject>
